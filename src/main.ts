@@ -1,5 +1,5 @@
 import './style.css'
-import './ejemplos-ts/04-destructuracion-obj-arre.ts' //linea agregada 
+import './ejemplos-ts/06-importar-exportar.ts' //linea agregada 
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
